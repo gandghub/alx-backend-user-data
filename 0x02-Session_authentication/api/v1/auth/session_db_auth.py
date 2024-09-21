@@ -55,4 +55,3 @@ class SessionDBAuth(SessionExpAuth):
             return False
         sessions[0].remove()
         return True
-
